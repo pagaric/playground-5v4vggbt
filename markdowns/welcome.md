@@ -9,3 +9,4 @@ Faite en sorte que le fonction **helloWorld()** retourne exactement `Hello World
 Créer une fonction "**jeRetourneMonArgument()**".
 
 Par exemple si la fonction reçoit "**abc**", elle devra retourner `abc`.
+@[Exercice 1, Fonction qui retourne Hello World! ]({"stubs": ["00_base.php"], "command": "/bin/bash run.sh 02_retourneArgumentTest.php"})
