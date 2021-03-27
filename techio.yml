@@ -1,4 +1,10 @@
-title: Simple PHP Template
+title: playground de test PHP
 plan:
 - title: PHP Snippet
-  statement: statement.md
+  statement: markdowns/welcome.md
+projects:
+  first-project:
+    root: /php-template
+    runner:
+      name: php
+      version: latest
