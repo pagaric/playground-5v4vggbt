@@ -13,7 +13,7 @@ function test()
     $test = true;
 
     for ($i=0; $i < count($t); $i++) { 
-        if(jeRetourneMonArgument($t[$i] !== $t[$i])){
+        if(jeRetourneMonArgument($t[$i]) !== $t[$i]){
             $test = false;
             break;
         }
